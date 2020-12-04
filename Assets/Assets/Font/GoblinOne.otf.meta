@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 80886cf9541b61f4a92857f902f01914
+timeCreated: 1607004509
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Goblin
+  fontNames:
+  - Goblin
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
